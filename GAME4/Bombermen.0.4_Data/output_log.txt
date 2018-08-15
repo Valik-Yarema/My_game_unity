@@ -1,0 +1,72 @@
+Initialize engine version: 5.6.3p3 (88d4ddf6344a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.6909]
+    Renderer: NVIDIA GeForce 940M
+    Vendor:   NVIDIA
+    VRAM:     2019 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.336 seconds
+Platform assembly: D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Valentyn  Yarema\Desktop\Labs\kyrsova\GAME4\Bombermen.0.4_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.268878 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.055625 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 697.
+Total: 3.659688 ms (FindLiveObjects: 0.066229 ms CreateObjectMapping: 0.030764 ms MarkObjects: 0.290125 ms  DeleteObjects: 3.272141 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.813121 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 697.
+Total: 1.112647 ms (FindLiveObjects: 0.187150 ms CreateObjectMapping: 0.077765 ms MarkObjects: 0.839613 ms  DeleteObjects: 0.004272 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.777229 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 724.
+Total: 5.018452 ms (FindLiveObjects: 0.052983 ms CreateObjectMapping: 0.032900 ms MarkObjects: 0.307217 ms  DeleteObjects: 4.623641 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.671962 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.394810 ms (FindLiveObjects: 0.035464 ms CreateObjectMapping: 0.016236 ms MarkObjects: 0.225178 ms  DeleteObjects: 0.117503 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.486249 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 3.971606 ms (FindLiveObjects: 0.023927 ms CreateObjectMapping: 0.017945 ms MarkObjects: 0.239279 ms  DeleteObjects: 3.690025 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.434120 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 825.
+Total: 5.599985 ms (FindLiveObjects: 0.058965 ms CreateObjectMapping: 0.032900 ms MarkObjects: 0.303371 ms  DeleteObjects: 5.203893 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.978053 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 825.
+Total: 0.959680 ms (FindLiveObjects: 0.221333 ms CreateObjectMapping: 0.066229 ms MarkObjects: 0.664426 ms  DeleteObjects: 0.004700 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3410 -> priority: 1 
+  Thread -> id: 2970 -> priority: 1 
